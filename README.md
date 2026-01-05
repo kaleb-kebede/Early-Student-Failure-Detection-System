@@ -62,7 +62,7 @@ After switching to the high-quality *Student Performance Factors* dataset to val
 ```
 
 ---
-## How to Run
+## **🚀How to Run**
 
 1. Open the `.ipynb` file in **Google Colab** or **Jupyter Notebook**
 2. Ensure the `.csv` dataset is in the same directory
@@ -70,7 +70,7 @@ After switching to the high-quality *Student Performance Factors* dataset to val
 
 ---
 
-## Contributors
+## **👨‍💻Contributors**
 
 - **Kaleb Kebede** (ID: 1501009) – Lead ML Engineer
 - **Abel Adam** (ID: 1500592) – Data Analyst
