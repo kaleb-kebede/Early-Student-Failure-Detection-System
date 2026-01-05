@@ -62,21 +62,19 @@ After switching to the high-quality *Student Performance Factors* dataset to val
 └── 📝 README.md                                             # Project Documentation
 
 ---
-##**🚀 How to Run**
-1- Open the .ipynb file in Google Colab or Jupyter Notebook.
+## 🚀 How to Run
 
-2- Ensure the csv dataset is in the same directory.
-
-3- Run the cells sequentially to see the Data Audit, Training, and Evaluation steps.
+1. Open the `.ipynb` file in **Google Colab** or **Jupyter Notebook**.
+2. Ensure the `.csv` dataset is in the same directory.
+3. Run the cells sequentially to see the **Data Audit**, **Training**, and **Evaluation** steps.
 
 ---
 
-##**👨‍💻 Contributors**
-- Kaleb Kebede (ID: 1501009) - Lead ML Engineer
+## 👨‍💻 Contributors
 
-- Abel Adam (ID: 1500592) - Data Analyst
-
-- Daniel Abebe (ID: 1501647) - Researcher
+- **Kaleb Kebede** (ID: 1501009) – *Lead ML Engineer*
+- **Abel Adam** (ID: 1500592) – *Data Analyst*
+- **Daniel Abebe** (ID: 1501647) – *Researcher*
 
 ---
 
