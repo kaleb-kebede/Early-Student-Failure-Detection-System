@@ -46,10 +46,11 @@ During the initial phase, we audited a legacy dataset (`student_performance_pred
 - *See "Control Experiment" section in the notebook for visual proof*
 
 ## Repository Structure
-├── Project_Early_Student_Failure_Detection_System.ipynb # Main Analysis Notebook
-├── StudentPerformanceFactors.csv # High-Quality Dataset
-├── student_performance_prediction.csv # Archived Noisy Legacy Data
-└── README.md # Project Documentation
+```bash
+├── 📓 Project_Early_Student_Failure_Detection_System.ipynb  # Main Analysis Notebook
+├── 📄 StudentPerformanceFactors.csv                         # The High-Quality Dataset
+├── 📄 student_performance_prediction.csv                    # (Archived) The Noisy Legacy Data
+└── 📝 README.md
 
 
 ## How to Run
