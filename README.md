@@ -51,18 +51,23 @@ During the initial phase, we audited a legacy dataset (`student_performance_pred
 ├── 📄 StudentPerformanceFactors.csv                         # The High-Quality Dataset
 ├── 📄 student_performance_prediction.csv                    # (Archived) The Noisy Legacy Data
 └── 📝 README.md
+```
 
-
+---
 ## How to Run
 
 1. Open the `.ipynb` file in **Google Colab** or **Jupyter Notebook**
 2. Ensure the `.csv` dataset is in the same directory
 3. Run the cells sequentially to see **Data Audit**, **Training**, and **Evaluation** steps
 
+---
+
 ## Contributors
 
 - **Kaleb Kebede** (ID: 1501009) – Lead ML Engineer
 - **Abel Adam** (ID: 1500592) – Data Analyst
 - **Daniel Abebe** (ID: 1501647) – Researcher
+
+---
 
 *Submitted to Mr. Mesay A. | Department of Software Engineering*
